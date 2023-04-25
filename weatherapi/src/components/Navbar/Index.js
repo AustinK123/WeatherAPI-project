@@ -7,17 +7,17 @@ const Navbar = () => {
     <>
       <Nav>
         <NavMenu>
-          <NavLink to="/about" activeStyle>
-            About
-          </NavLink>
           <NavLink to="/contact" activeStyle>
-            Contact Us
+            Home
+          </NavLink>
+          <NavLink to="/weather" activeStyle>
+            Generate Random
           </NavLink>
           <NavLink to="/blogs" activeStyle>
-            Blogs
+            Input Lat and Long
           </NavLink>
           <NavLink to="/sign-up" activeStyle>
-            Sign Up
+            Input City Name
           </NavLink>
         </NavMenu>
       </Nav>
