@@ -1,15 +1,14 @@
 import React from 'react';
   
-const Weather = () => {
+const Contact = () => {
   return (
     <div>
       <h1> 
-        weather thing
         
+COORD INPUT        
         </h1>
-
     </div>
   );
 };
   
-export default Weather;
+export default Contact;

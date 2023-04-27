@@ -8,8 +8,6 @@ const Contact = () => {
 My weather API page
         
         </h1>
-      <h1> </h1>
-
     </div>
   );
 };

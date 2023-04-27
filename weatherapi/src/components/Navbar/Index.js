@@ -7,10 +7,10 @@ const Navbar = () => {
     <>
       <Nav>
         <NavMenu>
-          <NavLink to="/contact" activeStyle>
+          <NavLink to="/" activeStyle>
             Home
           </NavLink>
-          <NavLink to="/weather" activeStyle>
+          <NavLink to="/Rand" activeStyle>
             Generate Random
           </NavLink>
           <NavLink to="/blogs" activeStyle>
