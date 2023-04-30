@@ -11,14 +11,8 @@ const Navbar = () => {
             Home
           </NavLink>
           <NavLink to="/Rand" activeStyle>
-            Generate Random
-          </NavLink>
-          <NavLink to="/blogs" activeStyle>
-            Input Lat and Long
-          </NavLink>
-          <NavLink to="/sign-up" activeStyle>
-            Input City Name
-          </NavLink>
+Weather of Coord Input   
+       </NavLink>
         </NavMenu>
       </Nav>
     </>

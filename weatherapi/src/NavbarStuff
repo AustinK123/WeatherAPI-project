@@ -6,8 +6,4 @@ import axios from 'axios';
 
 function navStuff(){
 
-
-
-
-
 }
